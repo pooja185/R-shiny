@@ -1,2 +1,1 @@
-This is a text file.
-It has the .txt extension.
+This repository contains information about the R-shiny application
